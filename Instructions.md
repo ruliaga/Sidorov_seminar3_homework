@@ -1,5 +1,9 @@
 # Инструкции по работе с GIT
+
+![avatar](https://tehnikaarenda.ru/wp-content/uploads/9/0/3/90317cdfaf1a8f4d0c9f12ed5016d890.jpeg)
+
 ## Глобальные настройки  GIT
+
 1. *git version* - **команда для вывода весии GIT**
 
 2. *git config --global user.name "Ваше имя английскими буквами* - **ваше имя в системе GIT**
