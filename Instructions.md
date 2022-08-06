@@ -1,10 +1,10 @@
 # Инструкции по работе с GIT
 ## Глобальные настройки  GIT
-*git version* - **команда для вывода весии GIT**
+1. *git version* - **команда для вывода весии GIT**
 
-*git config --global user.name "Ваше имя английскими буквами* - **ваше имя в системе GIT**
+2. *git config --global user.name "Ваше имя английскими буквами* - **ваше имя в системе GIT**
 
-*git config --global user.email "* - **ваш e-mail в системе GIT**
+3. *git config --global user.email "* - **ваш e-mail в системе GIT**
 
 ## Базовые команды GIT
 
