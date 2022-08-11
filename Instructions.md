@@ -25,3 +25,15 @@
 - *git log* - **посмотреть историю коммитов** 
 ----
 ## Управление ветками GIT
+
+*git branch* - **посмотреть ветки**
+
+*git branch [branch_name]* - **создать ветку с именем branch_name**
+
+*git checkout [branch_name]* - **перейти на ветку с именем branch_name**
+
+*git merge [branch_name]* - **слить ветку branch_name в текущую ветку**
+
+*git branch -d [branch_name]* - **удалить ветку branch_name**
+
+*git log -graph* - **посмотреть историю коммитов с использованием схемы**
