@@ -26,6 +26,8 @@
 ----
 ## Управление ветками GIT
 
+---
+
 *git branch* - **посмотреть ветки**
 
 *git branch [branch_name]* - **создать ветку с именем branch_name**
@@ -37,3 +39,5 @@
 *git branch -d [branch_name]* - **удалить ветку branch_name**
 
 *git log -graph* - **посмотреть историю коммитов с использованием схемы**
+
+---
