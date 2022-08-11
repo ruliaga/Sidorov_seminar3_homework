@@ -39,5 +39,5 @@
 *git branch -d [branch_name]* - **удалить ветку branch_name**
 
 *git log -graph* - **посмотреть историю коммитов с использованием схемы**
-
+![avatar](https://myeditor.ru/wp-content/uploads/a/b/5/ab5c3652be1c99438bcaaf9ab820d12e.png)
 ---
