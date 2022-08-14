@@ -41,4 +41,13 @@
 *git log -graph* - **посмотреть историю коммитов с использованием схемы**
 ![avatar](https://myeditor.ru/wp-content/uploads/a/b/5/ab5c3652be1c99438bcaaf9ab820d12e.png)
 ![avatar](https://miro.medium.com/max/968/1*Zk6GM_uDQAUbdYtHPpZjZw.png)
----
+
+
+------
+## Команды для работы с удаленным репозиторием
+
+*git push* - **выгрузить все изменения логального репозитория на удаленный**
+
+*git pull* - **вытянуть изменения удаленного репозитория в локальный**
+
+*git push -u origin Name* - **Создание ветки Name в удаленном репозитории**
